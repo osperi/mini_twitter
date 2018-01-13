@@ -1,24 +1,5 @@
-# README
+# Arquitectura Cliente Servidor - Práctica final
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Mini twitter en Ruby on Rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+La aplicación llevada a cabo en Ruby on Rails sigue los ejemplos y enunciados del documento de la asignatura _**ARQUITECTURA CLIENTE/SERVIDOR**_ perteneciente al título *__Experto en Desarollo Fullstack__* de la Universidad de Salamanca.

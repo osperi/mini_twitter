@@ -23,6 +23,8 @@ function show_user(id) {
         $("#name").text(data.name);
         $("#email").text(data.email);
         $("#pPosts").hide();
+        $("#tablePosts").hide();
+        $("#bodyPosts").html("");
         $("#show").dialog({closeText:""});
     });
 }
@@ -32,6 +34,7 @@ function show_user_posts(id) {
         $("#name").text(data.name);
         $("#email").text(data.email);
         $("#pPosts").show();
+        $("#tablePosts").show();
         $("#bodyPosts").html("");
         data.micropost.forEach(function (post,index){
             $("#bodyPosts").append("<tr>");
