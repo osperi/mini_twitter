@@ -79,8 +79,13 @@ GEM
     jquery-ui-rails (6.0.1)
       railties (>= 3.2.16)
     loofah (2.2.1)
+<<<<<<< HEAD
+      crass (~> 1.0.2)
+      nokogiri (>= 1.5.9)
+=======
       crass (~> 1.0.3)
       nokogiri (>= 1.8.2)
+>>>>>>> 4bb644ba80b76b12303deef2745143a105e47e7f
     mail (2.7.0)
       mini_mime (>= 0.1.1)
     method_source (0.9.0)
